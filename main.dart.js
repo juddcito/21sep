@@ -34744,7 +34744,7 @@ s.gtJ().oC(B.cN)
 $.as.p2$.push(new A.a_h(s))},
 l(){this.gtJ().l()
 this.aK()},
-O(a){var s=null,r=A.a4w(new A.ja("Para ti, mi amorcito",s,A.tv(s,s,s,s,s,s,s,s,s,s,s,A.cT(a,s,t.w).w.a.a<600?32:48,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),B.yq,B.yo),q=A.ajt(s,s,new A.oy("flor.png",s,s))
+O(a){var s=null,r=A.a4w(new A.ja("Para ti, mi amorcito",s,A.tv(s,s,s,s,s,s,s,s,s,s,s,A.cT(a,s,t.w).w.a.a<600?32:48,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),B.yq,B.yo),q=A.ajt(s,s,new A.oy("assets/images/logo.png",s,s))
 return new A.mQ(A.afR(A.a7E(A.a([B.hR,r,B.hR,A.a4w(new A.oH(new A.pW(q,s),B.yp,!0,s),B.jD,B.yj),B.hR,new A.f2(B.yt,A.a4w(B.KR,B.w,B.jD),s)],t.nA),B.c8,B.h6,B.p1),s,s),s)}}
 A.a_h.prototype={
 $1(a){return this.IV(a)},
